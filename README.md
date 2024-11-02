@@ -38,10 +38,6 @@ List of aliases, which are available after installation:
 - `git open`
 - `git www`
 
-## Credits
-
-- [Piotr Kowalski](https://twitter.com/piecioshka) - Author 🛡️
-
 ## Related
 
 * [git-scripts](https://github.com/piecioshka/git-scripts) - Utilities Git scripts _(mostly in Node.js)_
